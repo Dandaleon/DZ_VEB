@@ -1,0 +1,13 @@
+﻿* {
+  background-color: #fff;
+  background-color: #0000;
+}
+#timer{
+		color: Maroon;
+	    font-size: 40px;
+	    font-family: sans-serif;
+		font-weight: 600;
+	    }
+.none {
+   		 display: none;
+		}
